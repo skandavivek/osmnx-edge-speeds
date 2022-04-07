@@ -28,4 +28,6 @@ edges1=add_edge_speeds(G,df_es,0.01)
 
 ## And.. that's it! You now have your OSMnx edge files with speeds!
 
+- For sample code look at the Example1.ipynb notebook
+
 
